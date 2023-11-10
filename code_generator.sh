@@ -20,5 +20,6 @@ cat <<EOF > "${BIN_PATH}/bar_new"
 2-A # original file's line is 2
 3-A # original file's line is 3
 3-B # original file's line is 3
+XXX # no related lines
 EOF
 
